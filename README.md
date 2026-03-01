@@ -25,4 +25,4 @@ Bu projeyi **GPL-3.0** lisansı ile koruma altına aldım. Benim için kodun öz
 
 ---
 **Geliştirici:** hypernova-developer
-**Altyapı:** [SyntaX](https://github.com/hypernova-developer/SyntaX) (bettersyntax vb.)
+**Altyapı:** [SyntaX](https://github.com/hypernova-developer/SyntaX) (bettersyntax modülleri)
