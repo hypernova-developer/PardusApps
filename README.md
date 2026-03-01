@@ -13,7 +13,7 @@ PardusApps ile hedefim, sistem kaynaklarını yormayan, "saf güç" felsefesiyle
 Projelerimi geliştirirken üçlü bir yapı kullanıyorum:
 * **Görsel Arayüz (UI):** Modern ve akıcı bir deneyim için HTML, CSS ve JavaScript kullanıyorum.
 * **Bağlantı Katmanı (Bridge):** Arayüz ile çekirdek motoru konuşturmak için Python'un esnekliğinden yararlanıyorum.
-* **Çekirdek Motor (Core):** Performans gerektiren tüm işlemler için kendi geliştirdiğim **SyntaX (C++)** kütüphanesini kullanarak donanım seviyesinde güç sağlıyorum.
+* **Çekirdek Motor (Core):** Performans gerektiren tüm işlemler için kendi geliştirdiğim **SyntaX Library Collection (SLC)** kütüphane koleksiyonunu kullanarak donanım seviyesinde güç sağlıyorum.
 
 ## 📦 Planlanan Uygulamalar
 * **PardusCalc:** Modern UI ve hassas C++ motoruyla geliştirilen ilk uygulamam. (Geliştirme aşamasında)
